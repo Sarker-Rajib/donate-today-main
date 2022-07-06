@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    background: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-contents{
+    padding: 120px 0;
+    background: rgba(0, 0, 0, 0.288);
+}
+
+.banner-heading{
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.paragraph-white{
+    color: #fff;
+    padding-bottom: 25px;
+}
+
+.center{
+    text-align: center;
+}
+
+.red-button{
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    background: #FF5959;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+}
+
+.contents-parent{
+    max-width: 1130px;
+    margin: auto;
+}
+
+.donate-today{
+    padding: 50px 0;
+}
+
+.small-heading{
+    font-family: 'Inter', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+
+.donation{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.amount{
+    padding: 30px 20px;
+    margin: 0 15px;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    background: #fafafa;
+    border-radius: 5px;
+}
+
+.red-amount{
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    color: #FF5959;
+}
+
+.amount-input{
+    width: 80%;
+    border: 0;
+    border-bottom: 1px solid #dbdbdb;
+    margin-bottom: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.donate-plan{
+    padding: 50px 0;
+}
+
+.plans{
+    padding: 30px 0;
+    display: flex;
+}
+
+.plan{
+    padding: 40px 15px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.plan-header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.plan-one{
+    background: #EDF5F6;
+}
+.plan-two{
+    background: #FFEEEE;
+}
+.plan-three{
+    background: #FFF4D6;
+}
+
+.img{
+    width: 100%;
+}
+
+.need-us{
+    padding: 80px 0;
+}
+
+.need-us-parent{
+    display: flex;
+    align-items: left;
+}
+
+.need-us-text{
+    text-align: left;
+    width: 50%;
+}
+
+.need-us-image{
+    width: 50%;
+    padding-right: 30px;
+}
+
+
+.contact-us{
+    padding: 50px 0;
+    background: #FFEEEE;
+}
+
+.contact-info{
+    display: flex;
+}
+
+.address{
+    width: 60%;
+}
+
+.address-details{
+    margin: 0;
+    padding-bottom: 25px;
+}
+
+.mail-and-phone{
+    width: 40%;
+}
+
+.contact-heading{
+    font-size: 22px;
+    padding-bottom: 0;
+    font-family: 'Inter', sans-serif;
+    margin: 5px 0;
+}
+
+.get-updates{
+    padding: 50px 0;
+    text-align: center;
+}
+
+.small-red-button{
+    padding: 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    background: #FF5959;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    margin: 0;
+}
+
+.email-input{
+    border: none;
+    background: #D9D9D9;
+    padding: 15px;
+    margin: 0;
+    font-size: 12px;
+    width: 250px;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFF4D6;
+    padding: 80px 0;
+    margin: 0 150px;
+}
+
+.footer{
+    text-align: center;
+    padding: 20px 0;
+    background: black;
+    margin-top: 30px;
+}
+
+.foot-header{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: #FF5959;
+}
+
+
+
+/* 
+font-family: 'Inter', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif; 
+
+*/
